@@ -23,7 +23,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-gray-700 mb-8">
-          From timeless classics to bold new flavors, TastyFood serves the perfect fusion of taste and experience. Whether you're dining in or grabbing a quick bite, every plate promises joy.
+        From timeless classics to bold new flavors, TastyFood serves the perfect fusion of taste and experience. Whether you&apos;re dining in or grabbing a quick bite, every plate promises joy.
         </p>
 
         <div className="flex gap-6 items-center">

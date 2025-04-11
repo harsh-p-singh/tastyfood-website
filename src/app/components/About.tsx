@@ -27,7 +27,7 @@ export default function AboutSection() {
           What TastyFood is all about!
         </h2>
         <p className="text-gray-700 mb-8 leading-relaxed">
-          Founded in 2020, TastyFood was born from a passion for bold, authentic flavors and unforgettable food experiences. Whether it's a quick bite or a soulful meal, every dish reflects a blend of tradition, freshness, and fun.
+        Founded in 2020, TastyFood was born from a passion for bold, authentic flavors and unforgettable food experiences. Whether it&apos;s a quick bite or a soulful meal, every dish reflects a blend of tradition, freshness, and fun.
         </p>
 
         <div className="mt-10 text-[#e74c3c] text-2xl">❦</div>
